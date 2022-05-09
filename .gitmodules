@@ -1,0 +1,3 @@
+[submodule "monster-rolodex"] 
+  path = monster-rolodex
+  url = https://github.com/datacris/monster-rolodex.git
